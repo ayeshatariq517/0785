@@ -1,0 +1,7 @@
+Take three variables as input and add them without using the + operator
+
+Start
+Input A,B,C
+Set D to A-(-B)-(-C)
+Print D
+End
