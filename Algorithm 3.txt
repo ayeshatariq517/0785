@@ -1,0 +1,14 @@
+Implement an algorithm for making a simple calculator with all the operators
+
+Ask the user to enter Num1,Num2 and Operator
+if Operator is +
+then set Result to Num1 + Num2
+else if Operator is -
+then set Result to Num1 - Num2
+else if Operator is *
+then set Result to Num1 * Num2
+else if Operator is /
+then set Result to Num1 / Num2
+else if Operator is %
+then set Result to (Num1/100 * Num2)
+display Result
