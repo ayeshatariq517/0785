@@ -1,0 +1,12 @@
+Create a small calculator which only does ‘+’ or ‘-‘Operations.
+
+Start
+Input Num1,Num2,Operator
+Result <-  0
+If Operator = + Then
+   Result <- Num1 + Num2
+ElseIf Operator = - Then
+   Result <- Num1 - Num2
+EndIf
+Print Result
+End
