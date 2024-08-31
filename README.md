@@ -1,7 +1,7 @@
 # 0785
 lab task pseudocodes and algorithms
 
-Here's a lttle into about me:
+Here's a little intro about me:
 
 •	My name is Ayesha Tariq
 
