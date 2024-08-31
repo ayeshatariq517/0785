@@ -1,0 +1,12 @@
+Find the maximum number in any of three variables.
+
+Start
+Input A,B,C
+Set Max to A
+If B > Max Then
+   Set Max to B
+ElseIf C > Max Then
+   Set Max to B
+EndIf
+Print Max
+End
